@@ -42,8 +42,5 @@ Bu proje, bir alışveriş listesi oluşturmak ve yönetmek için geliştirilmi�
 
 - React
 - JavaScript (ES6+)
-- CSS
+- Bootstrap
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
