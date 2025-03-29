@@ -28,13 +28,13 @@ Bu proje, bir alışveriş listesi oluşturmak ve yönetmek için geliştirilmi�
 
 1. Geliştirme sunucusunu başlatın:
     ```bash
-    npm start
+    npm run dev
     ```
 2. Tarayıcınızı açın ve `http://localhost:3000` adresine gidin.
 
 ## Komutlar
 
-- `npm start`: Uygulamayı geliştirme modunda çalıştırır.
+- `npm run dev`: Uygulamayı geliştirme modunda çalıştırır.
 - `npm run build`: Uygulamayı üretim için derler.
 - `npm test`: Test paketini çalıştırır.
 
