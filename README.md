@@ -13,7 +13,7 @@ Bu proje, bir alışveriş listesi oluşturmak ve yönetmek için geliştirilmi�
 
 1. Depoyu klonlayın:
     ```bash
-    git clone https://github.com/your-username/shopping-list.git
+    git clone https://github.com/htunc29/shopping-list.git
     ```
 2. Proje dizinine gidin:
     ```bash
